@@ -1,6 +1,9 @@
 Desafíos
+
 1 Analizar los datos de las distribuciones e identificar si hay algún valor o registros que no se deben considerar para el modelo.
+
 2 Investigar qué es y como crear un mapa de calor para analizar la correlación de las variables.
+
 3 Crear una conclusión para cada uno de los gráficos del histograma. Mirar los datos y extraer conclusiones, porque es una habilidad esencial
 
 Descripcion de el dataset
